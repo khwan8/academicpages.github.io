@@ -13,8 +13,8 @@ You can see my <a href="https://khwan8.github.io/files/CV.pdf">[CV here].</a>
 
 Education
 ======
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc. in Applied Data Science with Distiction, University of Essex, 2023
+* BEng. in Computer Engineering, Rangsit University, Thailand, 2011
 
 Work experience
 ======
