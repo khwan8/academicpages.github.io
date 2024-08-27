@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can see my <a href="https://micsupasun.github.io/files/CV_21_08_2024.pdf">[CV here].</a>
+
 Education
 ======
 * M.S. in Jekyll, GitHub University, 2014
