@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can see my <a href="https://micsupasun.github.io/files/CV_21_08_2024.pdf">[CV here].</a>
+You can see my <a href="https://micsupasun.github.io/files/CV.pdf">[CV here].</a>
 
 Education
 ======
