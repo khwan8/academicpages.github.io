@@ -42,5 +42,5 @@ My contact information is below.
 </table>
 </div>
 
-If I can be of assistance, please contact me [via email](mailto:sksupasun2@gmail.com).
+If I can be of assistance, please contact me [via email](mailto:chumkhunk@gmail.com).
 
