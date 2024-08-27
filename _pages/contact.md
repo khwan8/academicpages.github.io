@@ -33,7 +33,7 @@ My contact information is below.
   </tr>
   <tr>
     <th style="width:1px; white-space:nowrap; border: none;">Address/Office</th>
-    <td style="white-space:nowrap; border: none;">In progress..., <br> In progress... <br> In progress... <br> In progress...</td>
+    <td style="white-space:nowrap; border: none;">5 Williams close <br> Ely, Cambridgeshire <br> CB7 4FQ <br> United Kingdom</td>
   </tr>
   <tr>
     <th style="width:1px; white-space:nowrap; border: none;">Office hours</th>
