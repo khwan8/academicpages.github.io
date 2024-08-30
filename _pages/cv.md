@@ -13,15 +13,16 @@ You can see my <a href="https://khwan8.github.io/files/CV.pdf">[CV here].</a>
 
 Education
 ======
-* MSc. in Applied Data Science with Distiction, University of Essex, 2023
-* BEng. in Computer Engineering, Rangsit University, Thailand, 2011
+* MSc. in Applied Data Science (Distiction), University of Essex, 2023
+* BEng. in Computer Engineering (First-class honours), Rangsit University, Thailand, 2011
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* IT Assistant Manager, Toyota Daihatsu Engineering and Manufacturing (2020 - 2021)
+  * Spearheaded the implementation of Robotic Process Automation (RPA) across multiple departments,
+resulting in a 30% reduction in manual processing time.
+  * Managed a portfolio of IT projects, delivering them 15% under budget and 10% ahead of schedule.
+  * Trained and led a team of 8 engineers, improving team efficiency by 20%.
 
 * Fall 2015: Research Assistant
   * Github University
@@ -42,7 +43,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -62,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
