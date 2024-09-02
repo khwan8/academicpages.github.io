@@ -13,7 +13,7 @@ You can see my <a href="https://khwan8.github.io/files/CV.pdf">[CV here].</a>
 
 Education
 ======
-* Jan 2022 – Jan 2023: MSc Applied Data Science Student at the University of Essex
+* **Jan 2022 – Jan 2023: MSc Applied Data Science Student at the University of Essex**
   * Machine Learning models for Diabetes Diagnosis using Python
   * Data analysis and visualisation to study discrimination in Dallas Policing Dataset using R
   * Analysis of World Development Indicators and the severity of the COVID-19 pandemic using R
