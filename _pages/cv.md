@@ -55,6 +55,12 @@ Skills
 - **Emerging Technologies:** Augmented Reality, Virtual Reality, Mixed Reality
 - **Project Management:** Agile methodologies, Cross-functional Team Leadership, ITIL
 
+Languages
+======
+- Thai : Native      
+- French : Intermediate
+- English : Advanced	       
+- Japanese : Intermediat
 
 <!-- Publications
 ======
