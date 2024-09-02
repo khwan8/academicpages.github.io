@@ -57,9 +57,9 @@ Skills
 
 Languages
 ======
-- Thai : Native      
-- French : Intermediate
-- English : Advanced	       
+- Thai : Native 
+- English : Advanced     
+- French : Intermediate	       
 - Japanese : Intermediat
 
 <!-- Publications
