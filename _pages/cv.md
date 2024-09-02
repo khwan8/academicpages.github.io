@@ -49,19 +49,12 @@ Work experience
 
 Skills
 ======
-* Programming Languages
-  * Python      
-  * R
-  * SQL
-  * VBA
-  * C,C#, C++
-  * Java
-  * HTML
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Programming Languages: Python, R, VBA, SQL, C, C++, C#, HTML, Java
+- Data Science: Data wrangling, Modelling, Machine Learning, Deep Learning, Exploratory Data Analysis (EDA), Data Manipulation, Data Visualization, Data Mining, Data cleaning
+- Tools: MATLAB, Git, Microsoft Office, Linux, Windows Server
+- Emerging Technologies: Augmented Reality, Virtual Reality, Mixed Reality
+- Project Management: Agile methodologies, Cross-functional Team Leadership, ITIL
+
 
 <!-- Publications
 ======
