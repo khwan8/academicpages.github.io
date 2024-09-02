@@ -6,7 +6,8 @@ collection: portfolio
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
 ---
-title: "MA331-Coursework"
+title: "Portfolio item number 1" 
+<!-- #"MA331-Coursework" -->
 subtitle: "Text analytics of the TED talks by Tim Berners-Lee and Brian Cox"
 author: "2110866-Khwanchanok-Chumkhun"
 output: html_document
@@ -17,7 +18,8 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE,error=FALSE, warning=FALSE, message=FALSE,layout="l-body-outset",fig.align = 'center')   ## DON'T ALTER THIS: this is to prevent printing the code in your "html" file.
 
 # Extend the list below to load all the packages required for your analyses here:
-#===============================================================================
+#============================================
+===================================
 library(knitr)
 library(dsEssex)
 library(tidyverse)
