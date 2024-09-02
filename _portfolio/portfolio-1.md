@@ -1,17 +1,17 @@
-<!-- ---
-title: "Portfolio item number 1"
+---
+title: "MA331-Coursework"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
----
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<!-- ---
 title: "Portfolio item number 1" 
-<!-- #"MA331-Coursework" -->
+#"MA331-Coursework"
 subtitle: "Text analytics of the TED talks by Tim Berners-Lee and Brian Cox"
 author: "2110866-Khwanchanok-Chumkhun"
 output: html_document
----
+--- -->
 
 ```{r setup, include=FALSE}
 ### Don't delete this setup code chunk from your file
