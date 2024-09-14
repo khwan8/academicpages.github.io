@@ -6,5 +6,11 @@ The model achieves a 95.13% accuracy, offering insights into migraine triggers a
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This research focuses on predicting migraine attacks using a machine learning approach, specifically a Random Forest model. Given the severe class imbalance in the dataset (with migraines accounting for only 7.34% of cases), the study employs the Synthetic Minority Over-sampling Technique (SMOTE) to generate synthetic data points for the minority class, balancing the dataset before model training.
+
+The Random Forest algorithm, a supervised ensemble learning method, is applied to improve the robustness and generalizability of the model. Random Forest combines multiple decision trees, with each tree being trained on a bootstrapped subset of the data. This model is ideal for both classification and regression tasks and was chosen due to the relatively small dataset, which could otherwise lead to overfitting with deeper models.
+
+To better understand the contributions of each feature to the prediction outcomes, SHAP (SHapley Additive exPlanations) values are used. SHAP, grounded in coalitional game theory, helps explain the impact of each feature on individual predictions, ensuring interpretability by assigning feature importance values to the model's predictions.
+
+In this context, stress was identified as the most significant predictor of migraines, followed by age, BMI, and menstruation
 <a href="https://github.com/khwan8/projects/blob/8a8922b4959fae16e16740c74c268b1587cabe13/Migraine_Prediction/Migraine.ipynb">github</a>
