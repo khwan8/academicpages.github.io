@@ -5,12 +5,16 @@ SHAP values provide interpretability by identifying key predictors like stress, 
 The model achieves a 95.13% accuracy, offering insights into migraine triggers and enhancing early prediction for preventive care. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
+This master’s dissertation, in collaboration with Happyr Health, focuses on predicting migraine attacks to support teens through personalized behavioral exercises. 
+The project leverages AI to anticipate migraines, aiming to enable early interventions that help teens manage their condition.
 
-This research focuses on predicting migraine attacks using a machine learning approach, specifically a Random Forest model. Given the severe class imbalance in the dataset (with migraines accounting for only 7.34% of cases), the study employs the Synthetic Minority Over-sampling Technique (SMOTE) to generate synthetic data points for the minority class, balancing the dataset before model training.
+The AI methodology centers around the Random Forest algorithm, chosen for its effectiveness in handling small datasets and preventing overfitting. 
+The model was trained on data from the Smartphone Headache Diary (SHD), which tracks various migraine triggers. 
+Due to the imbalance between migraine and non-migraine cases, the Synthetic Minority Over-sampling Technique (SMOTE) was used to generate synthetic data for the minority class, ensuring a balanced dataset for model training.
 
-The Random Forest algorithm, a supervised ensemble learning method, is applied to improve the robustness and generalizability of the model. Random Forest combines multiple decision trees, with each tree being trained on a bootstrapped subset of the data. This model is ideal for both classification and regression tasks and was chosen due to the relatively small dataset, which could otherwise lead to overfitting with deeper models.
+Random Forest’s ensemble learning approach combines multiple decision trees to enhance prediction accuracy. 
+To interpret the model’s results, SHAP (SHapley Additive exPlanations) values were employed, providing insights into how individual features contribute to predictions. 
+The analysis revealed stress, age, and BMI as the most significant predictors of migraine attacks.
 
-To better understand the contributions of each feature to the prediction outcomes, SHAP (SHapley Additive exPlanations) values are used. SHAP, grounded in coalitional game theory, helps explain the impact of each feature on individual predictions, ensuring interpretability by assigning feature importance values to the model's predictions.
-
-In this context, stress was identified as the most significant predictor of migraines, followed by age, BMI, and menstruation
+The model achieved an impressive accuracy of 95.13% and an AUC score of 0.98, offering strong performance in predicting migraines. This AI-driven solution aligns with Happyr Health’s mission by facilitating early prediction and personalized interventions for teens suffering from migraines.
 <a href="https://github.com/khwan8/projects/blob/8a8922b4959fae16e16740c74c268b1587cabe13/Migraine_Prediction/Migraine.ipynb">github</a>
